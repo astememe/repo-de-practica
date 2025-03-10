@@ -1,2 +1,3 @@
-nombre = "Santi"
-print(f"{nombre} es puto.)
+nombre = "Pablo"
+print(f"{nombre} es puto")
+
